@@ -1,0 +1,3 @@
+# termux-linux-tricks
+
+you will get tricks for termux and linux here ....
