@@ -1,6 +1,0 @@
-for remove "activate windows" watermark 
-run this command in 'CMD' in admin mode 
-
-bcdedit -set TESTSIGNING OFF
-
-and then restart pc .
